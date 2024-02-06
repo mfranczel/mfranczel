@@ -1,7 +1,5 @@
-👋 Hi, I’m @mfranczel, Platform Engineer @Deepnote
-
-👀 I’m interested in Cloud Computing, Infrastructure, Fullstack Development and Deep Learning
-
+👋 Hi, I’m @mfranczel, Platform Engineer @Deepnote \
+👀 I’m interested in Cloud Computing, Infrastructure, Fullstack Development and Deep Learning \
 🌱 I’m currently getting better in Kubernetes, Terraform and AWS
 
 <!---
