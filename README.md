@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mfranczel
-- 👀 I’m interested in Fullstack Web Development, Flutter app development and Deep Learning
-- 🌱 I’m currently learning Flutter, Semi-Supervised learning
+- 👋 Hi, I’m @mfranczel, Platform Engineer @Deepnote
+- 👀 I’m interested in Cloud Computing, Infrastructure, Fullstack Development and Deep Learning
+- 🌱 I’m currently getting better in Kubernetes, Terraform and AWS
 
 <!---
 mfranczel/mfranczel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
